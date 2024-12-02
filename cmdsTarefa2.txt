@@ -1,0 +1,13 @@
+    1  git clone [200~https://github.com/cristiianoo/LI2024-Teste04.git~
+    2  
+    3  git clone https://github.com/cristiianoo/LI2024-Teste04.git
+    4  cd LI2024-Teste04
+    5  mkdir js
+    6  mkdir css
+    7  cd js
+    8  [200~echo "//ficheiro de script" > script.js
+    9  echo "//ficheiro de script" > script.js
+   10  touch ../css/style.css
+   11  cd ..
+   12  ls
+   13  history > cmdsTarefa2.txt
